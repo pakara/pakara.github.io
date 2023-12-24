@@ -4,3 +4,10 @@ body {
   width: 800px;
   margin: 0 auto;
 }
+
+h2 {
+  color: #0f0;
+  border-left: 5px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  padding-left: 10px;
+}
